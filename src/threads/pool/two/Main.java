@@ -10,7 +10,7 @@ import java.util.concurrent.Executors;
 
 public class Main {
 
-    private static final int COUNT = 6;
+    private static final int COUNT = 4;
 
     public static void main(String[] args) {
         SharedResource res = null;
